@@ -1,4 +1,4 @@
-#OpenHAB 1.8.3 scrolling to top fix
+**#OpenHAB 1.8.3 scrolling to top fix**
 
 This is a slightly updated version of the web ui that comes bundled with openHAB 1.8.3.
 
