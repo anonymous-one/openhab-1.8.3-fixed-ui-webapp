@@ -6,9 +6,11 @@ As most who use this may know, the normally bundled version has a bug where upon
 
 This makes using the web ui next to impossible.
 
-I have updated the javascript file to fix this.
+I have updated the javascript file to fix this. I have only tested this on chrome based browsers abut I am guessing this should work fine with firefox as well.
 
 If you wish to have a look at the code changes simply unzip the JAR file above.
+
+To install this simply replace the above JAR file inside your openhab/server/plugins folder. In many linux based distributions this is located in /usr/share/openhab.
 
 I have also made some small changes to the layout / positioning of items to clean things up a little bit.
 
